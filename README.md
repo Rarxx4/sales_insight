@@ -67,6 +67,8 @@ The underlying dataset is a simulated sales transactions system covering:
 - Dates (for time-intelligence)
 
 This is a small, clean star-schema-style dataset by design — intentionally simple so the focus stays on the analysis and delivery process rather than data wrangling.
+<img width="583" height="389" alt="image" src="https://github.com/user-attachments/assets/4b060b73-853f-49d9-9ecc-3518c1ae530a" />
+
 
 ## Tools & Techniques Used
 
